@@ -4,7 +4,7 @@
 Please make sure you have ```sqlite3``` installed using : ```pip install sqlite3```.
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Usage
